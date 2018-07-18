@@ -17,7 +17,9 @@ print "Since you are %d years old you were probably born in the year %d" % (age,
 
 
 print "This was done in the Testing branch!"
-<<<<<<< HEAD
-=======
 print "This is another test in testing branch!"
->>>>>>> testing
+
+
+
+t_shirt_size = raw_input("What is your t-shirt size? ").upper()
+
