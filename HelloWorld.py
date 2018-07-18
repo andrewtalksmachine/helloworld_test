@@ -18,3 +18,12 @@ print "Since you are %d years old you were probably born in the year %d" % (age,
 
 print "This was done in the Testing branch!"
 print "This is another test in testing branch!"
+
+
+
+
+
+
+
+
+hat_size = raw_input("What size is your hat? ").upper()
