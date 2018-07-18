@@ -23,3 +23,6 @@ print "This is another test in testing branch!"
 
 t_shirt_size = raw_input("What is your t-shirt size? ").upper()
 
+waist_size = raw_input("What is your waist size? ").upper()
+
+print "hello master"
