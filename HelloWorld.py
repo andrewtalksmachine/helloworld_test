@@ -21,17 +21,11 @@ print "This is another test in testing branch!"
 
 
 
-<<<<<<< HEAD
 t_shirt_size = raw_input("What is your t-shirt size? ").upper()
-
 waist_size = raw_input("What is your waist size? ").upper()
+hat_size = raw_input("What size is your hat? ").upper()
 
 print "hello master"
-=======
 
 
 
-
-
-hat_size = raw_input("What size is your hat? ").upper()
->>>>>>> testing
