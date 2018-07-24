@@ -26,6 +26,6 @@ waist_size = raw_input("What is your waist size? ").upper()
 hat_size = raw_input("What size is your hat? ").upper()
 
 print "hello master"
-
+print "hello testing 7/24/2018"
 
 
